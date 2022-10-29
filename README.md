@@ -1,6 +1,8 @@
 # rc4_brute_force
 RC4 brute force python script
 
+I cobbled this code together to solve a CTF challenge and hope others find it helpful.
+
 This script can be used to decrypt a line of RC4 encrypted data in hex format and any word/password list of choice.
 
 I tested the script using the rockyou.txt word list.
